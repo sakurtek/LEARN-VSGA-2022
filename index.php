@@ -89,7 +89,7 @@ getErrorLogin();
 		<p><h5>Sistem Informasi Perpustakaan (sipus) | Praktikum </h5></p>
 		<p><h6><small>
 		Kasus asli dari Kominfo & Panitia VSGA <br />
-		Modifikasi oleh Yellow TIM (TOT 2022) <br />
+		Modifikasi oleh __test_update <br />
 		Logmodif: menggunakan Bootsrap sederhana dan Mengubah Teknik Pemrograman dengan menggunakan konsep Subrutin / modular</small></h6></p>
 	</div>
 </body>
